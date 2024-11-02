@@ -1,7 +1,7 @@
 # Pastor
 Transform Rotate
 
-![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
+![trick](https://github.com/user-attachments/assets/adea7dee-b238-41c3-ae75-cf10e913bd86)
 
 - [Demo Project](https://code-banu.github.io/Pastor/)
 
